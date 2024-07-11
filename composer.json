@@ -1,5 +1,5 @@
 {
-  "name": "unlembilisim/foribaapi",
+  "name": "cihansenturk/foribaapi",
   "description": "Fit solutions efatura api..",
   "keywords" : ["efatura", "earsiv","api", "foriba"],
   "authors": [
@@ -7,6 +7,10 @@
       "name": "Orhan Gazi Başlı",
       "email": "obasli@unlembilisim.com",
       "homepage": "http://unlembilisim.com/"
+    },
+    {
+      "name": "Cihan Senturk",
+      "email": "cihansenturk96@gmail.com"
     }
   ],
   "require": {
